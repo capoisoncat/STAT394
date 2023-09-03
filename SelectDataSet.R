@@ -1,0 +1,8 @@
+flight <- read.csv("hflights.csv")
+str(flight)
+summary(flight)
+head(flight)
+games <- read.csv("vgsales.csv")
+str(games)
+summary(games)
+head(games)
